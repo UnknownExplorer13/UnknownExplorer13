@@ -1,6 +1,6 @@
 <div align="center">
 <h1> <u>UnknownExplorer13</u> </h1>
-<h2> Projects </h2>
+<h2> Modding Projects </h2>
 <a href="https://beyondskyrim.org/argonia"> <img src="img/logo/argonia.png" width="130" /> </a>
 <a href="https://beyondskyrim.org/atmora"> <img src="img/logo/atmora.png" width="130" /> </a>
 <a href="https://beyondskyrim.org/cyrodiil"> <img src="img/logo/cyrodiil.png" width="130" /> </a>
