@@ -4,6 +4,7 @@
 <ul>
   <li>Hobbyist mostly dabbling in C#, Python, and occasionally C++</li>
   <li>Volunteer on the <a href="https://beyondskyrim.org">Beyond Skyrim</a> modding project</li>
+  <li>Particular interest in extracting assets from games to mess around with</li>
 </ul>
 
 <p align="center">
